@@ -1,0 +1,1 @@
+Activar XAMPP, Apache y en el navegador poner "http://localhost/IsaacGame/", sino no funciona
